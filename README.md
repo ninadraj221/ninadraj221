@@ -20,3 +20,7 @@ Languages = ["Python","Java","C"]
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninadraj221&show_icons=true&locale=en&layout=compact" alt="ninadraj221" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ninadraj221&show_icons=true&locale=en" alt="ninadraj221" /></p>
+
+<h1 style="text-align:left;float:left;">Title</h1> 
+<h2 style="text-align:right;float:right;">Context</h2> 
+<hr style="clear:both;"/>
