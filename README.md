@@ -7,7 +7,7 @@ Languages = ["Python","Java","C"]
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ninadraj221&label=Profile%20views&color=0e75b6&style=flat" alt="ninadraj221" /> </p>
 
-<h3 align="left">Connect with me:</h3> 
+<h3 align="left">Connect with me align="right">Languages and Tools:</h3> 
 <h3 align="right">Languages and Tools:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/ninadraj221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/ninadraj221" height="30" width="40" /></a>
