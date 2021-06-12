@@ -5,7 +5,6 @@ Name = "Ninad Yadav"
 Interests = ["Programming", "Space", "Robotics", "Mythology"]
 Languages = ["Python","Java","C"]
 ```
-<h1 align="center">Hi 👋, I'm Ninad</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninadraj221&label=Profile%20views&color=0e75b6&style=flat" alt="ninadraj221" /> </p>
 
 <h3 align="left">Connect with me:</h3>
